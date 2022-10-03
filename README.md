@@ -21,17 +21,24 @@
  ## Soe sandar Win
 
  -Github : [Soe Sandar Win] (@https://github.com/soesandarwin2201)
+ 
  -Twitter: @SoeSand14306315
+ 
  -linkedIn : (https://www.linkedin.com/in/soe-sandar-win-softwareengineer/)
+ 
  
  #Author 2
  ##osama 
+ 
  -github : [osama] (https://github.com/osamaashraf6)
+ 
  linkedIn : (https://www.linkedin.com/in/osama-ashraf-2a046b203/)
  
  #Author 3
  ##Mukama
+ 
  -github : [mukama] (https://github.com/stevenmukama)
+ 
  linkedIn : (https://www.linkedin.com/in/steven-mukama-b83067197/)
  
  ## Contributing
