@@ -13,11 +13,13 @@
  - animation & transition
 
 
-##Live 
+## Live 
 
 (https://soesandarwin2201.github.io/)
 
- #Author 1
+ # Author 1
+ 
+ 
  ## Soe sandar Win
 
  -Github : [Soe Sandar Win] (@https://github.com/soesandarwin2201)
@@ -30,8 +32,10 @@
  
  
  
- #Author 2
- ##osama 
+ # Author 2
+ 
+ 
+ ## osama 
  
  -github : [osama] (https://github.com/osamaashraf6)
  
@@ -42,8 +46,10 @@
  
  
  
- #Author 3
- ##Mukama
+ # Author 3
+ 
+ 
+ ## Mukama
  
  -github : [mukama] (https://github.com/stevenmukama)
  
@@ -53,11 +59,13 @@
  
  
  ## Contributing
+ 
+ 
  - Contributions, issues, and feature requests are welcome!
 
    Feel free to check the issues page.
    
- #Show your support
+ # Show your support
  
  Give a ⭐️ if you like this project!
  
