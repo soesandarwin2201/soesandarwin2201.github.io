@@ -44,6 +44,7 @@ section {
 
 .btn:hover {
   background-color: #6070ff;
+  color: #fff;
 }
 
 h4 {
