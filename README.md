@@ -13,9 +13,11 @@
  - animation & transition
 
 
-## Live 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-(https://soesandarwin2201.github.io/)
+Click here to see the [Live Demo](https://soesandarwin2201.github.io/) of the website 
+
+![](./images/html-css-project.png)
 
  # Author 1
  
